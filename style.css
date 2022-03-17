@@ -1,7 +1,32 @@
-H1 {
-    color: #000080;
-    font-size: 200%;
-    font-family: Arial, Verdana, sans-serif;
-    text-align: center;
-  }
-  
+body{
+background-image: url(gifki-kosmos-9.gif);
+color:#FFFFFF;
+}
+
+#showcase{
+text-align:center;
+}
+
+#showcase p{
+text-align:left;
+font:1.5em 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
+#text{
+padding-top:10px;
+width:780px;
+background:url(1572861463_2.jpg) repeat-y;
+margin:0 auto;
+color: #000;
+}
+
+#text p{
+padding: 5px 30px 5px 20px;
+line-height:1.5em;
+}
+
+#footer p{
+padding:5px 30px;
+font: size 10px;
+text-align:center;
+}
