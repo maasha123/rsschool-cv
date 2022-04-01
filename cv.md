@@ -1,4 +1,5 @@
 ﻿# **My CV**
+ [![N|Solid](https://sun9-20.userapi.com/impf/FdPJL_EGthUDtiad12-jG9kGOh18QP4IQtzM2A/sGChqiimzDM.jpg?size=960x960&quality=96&sign=b1b15f595696b5324d4bce87ef64605b&type=album)]
 
 Hi! My name is Shkurko Maria. My date of birth is 15.01.2002. I live in Belarus. Address of residence is Minsk, street Belorusskaya 21.
 
